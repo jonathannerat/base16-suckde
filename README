@@ -1,0 +1,14 @@
+Base16 SuckDE
+=============
+
+A Base16 template for SuckDE[1]. See the Base16 project[2] for more
+information,
+
+Installation
+============
+
+Copy or symlink the themes folder to the suckde folder, and include one of
+the headers in the theme.h. See the SuckDE[1] repository.
+
+[1] https://github.com/jonathannerat/suckde
+[2] https://github.com/chriskempson/base16
